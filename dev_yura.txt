@@ -5638,6 +5638,6 @@ local InfoTab = Window:MakeTab({ Title = "الحقوق", Icon = "rbxassetid://10
 InfoTab:AddSection({ "معلومات سكربت" })
 InfoTab:AddParagraph({ "3mk_3mk04 المطور: M7D حساب روب" })
 InfoTab:AddParagraph({ "TIK TOK: 911call77" })
-InfoTab:AddParagraph({ "GUI: WX" })
+InfoTab:AddParagraph({ "افضل سكربت عربي !" })
 InfoTab:AddParagraph({ "لو تريد تتعاون معي تواصل تيلي" })
 InfoTab:AddParagraph({ "Telegram: @ lurauu" })
